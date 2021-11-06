@@ -1,0 +1,42 @@
+video{
+    position:fixed;
+    left:50%;
+    top:50%;
+    margin-left: -50%;
+    margin-top: -50%;
+    z-index: 1;
+}
+div
+{
+    position: relative;
+    z-index: 2;
+    margin:0 auto;
+    margin-top: 150px;
+    max-width: 720px;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+}
+i{
+       font-size:5em;
+       color:#C2F58C;
+       opacity:0.6;
+}
+p{
+     font-family: 'Abril Fatface', cursive;
+    color:blue;
+}
+a{
+    display:inline-block;
+    padding: 5px;
+    border: solid 4px pink;
+    text-decoration: none;
+    color:pink;
+}
+h1{
+    background-color:#CC7C97;
+    font-size:44px;
+    font-family: 'Abril Fatface', cursive;
+    color:white;
+    opacity:0.7;
+}
+
